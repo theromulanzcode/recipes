@@ -6,7 +6,7 @@
 	- bread
 	- flour
 
-* **Ingredients**:
+### Ingredients
     - all-purpose flour : 4 cups
     - salt : 1 teaspoon
     - baking powder : 2 teaspoons
