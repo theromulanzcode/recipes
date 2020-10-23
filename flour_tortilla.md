@@ -7,11 +7,11 @@
 	- flour
 
 ### Ingredients
-    - all-purpose flour : 4 cups
-    - salt : 1 teaspoon
-    - baking powder : 2 teaspoons
-    - lard : 2 tablespoons
-    - water : 1.5 cups   
+- all-purpose flour : 4 cups
+- salt : 1 teaspoon
+- baking powder : 2 teaspoons
+- lard : 2 tablespoons
+- water : 1.5 cups   
 
 ### Notes
 None
