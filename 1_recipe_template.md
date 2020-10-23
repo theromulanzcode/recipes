@@ -6,8 +6,8 @@
     - tag2
 
 ### Ingredients
-    - item1 : amount1
-    - item2 : amount2
+- item1 : amount1
+- item2 : amount2
 
 ### Notes
 Note
