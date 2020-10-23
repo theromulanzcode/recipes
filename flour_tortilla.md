@@ -1,6 +1,5 @@
 ### Metadata:
 * **Title**: Homemade Flour Tortillas
-* **Author**:
 * **Source**: https://www.allrecipes.com/recipe/157642/homemade-flour-tortillas/
 * **Tags**:
 	- tortilla
