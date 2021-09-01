@@ -1,4 +1,4 @@
-### Metadata:
+### Metadata
 * **Title**: Dish
 * **Source**: https://example.com/
 * **Tags**:
